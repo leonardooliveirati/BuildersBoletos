@@ -1,0 +1,6 @@
+@BuildersBoleto.Api_HostAddress = http://localhost:5075
+
+GET {{BuildersBoleto.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
